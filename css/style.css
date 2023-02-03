@@ -254,24 +254,24 @@ input[type="checkbox"] {
 
 @media (max-width:1350px) {
     .container-login .content-box {
-        padding: 30px !important;
+        padding: 15px !important;
         width: 100%;
     }
     
     .container-login .content-box .form-box {
         width: 100%;
-        padding: 40px;
+        padding: 15px;
     }
 
     .footer-separator .remember .input-item-signup {
         flex-direction: column; 
-        gap: 15px;
+        gap: 10px;
     }
 }
 
 @media (max-width:768px) {
     body {
-        padding: 20px;
+        padding: 10px;
     }
 
     .container-login {
